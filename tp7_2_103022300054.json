@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRI2B3",
+			"name": "Arsitektur dan Desain Perangkat Lunak"
+		},
+		{
+			"code": "CCK2HAB4",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CCK2IAB3",
+			"name": "Dasar Jaringan Komputer"
+		},
+		{
+			"code": "CCK2JAC2",
+			"name": "Proyek Tingkat 2"
+		},
+		{
+			"code": "CRI2D3",
+			"name": "Kecerdasan Buatan"
+		},
+		{
+			"code": "CCK3JAB2",
+			"name": "Bahasa Inggris Writing and Speaking"
+		}
+	]
+}

@@ -8,7 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Update="DataMahasiswa103022300054.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="tp7_1_103022300054.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="tp7_2_103022300054.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

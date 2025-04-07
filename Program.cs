@@ -7,6 +7,9 @@ class Program
     {
         var data = new DataMahasiswa103022300054();
         data.ReadJSON();
+
+        var kuliah = new KuliahMahasiswa103022300054();
+        kuliah.ReadJSON();
     }
 }
 

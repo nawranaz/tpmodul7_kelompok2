@@ -6,14 +6,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        /* var data = new DataMahasiswa103022300084();
-         data.ReadJSON();*/
-
-        var kuliah = new KuliahMahasiswa103022300084();
-        kuliah.ReadJSON();
-
-        DataMahasiswa103022300084.ReadJSON();
+        DataMahasiswa103022300142.ReadJSON();
         Console.WriteLine();
-        /*KuliahMahasiswa103022300084.ReadJSON();*/
+
+        
+        var kuliah = new KuliahMahasiswa103022300142();
+        kuliah.ReadJSON();
     }
 }

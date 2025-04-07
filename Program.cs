@@ -9,8 +9,8 @@ class Program
         /* var data = new DataMahasiswa103022300084();
          data.ReadJSON();*/
 
-        /* var kuliah = new KuliahMahasiswa103022300054();
-         kuliah.ReadJSON();*/
+        var kuliah = new KuliahMahasiswa103022300084();
+        kuliah.ReadJSON();
 
         DataMahasiswa103022300084.ReadJSON();
         Console.WriteLine();
